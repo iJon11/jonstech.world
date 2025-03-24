@@ -1,2 +1,2 @@
-# http://jonstech.world
-# TBD if it will work for this project. FINGERS CROSSED 
+# jonstech.world
+Yay! Works now to just get everything else all set up and running here comes ol' trusty copilot.
