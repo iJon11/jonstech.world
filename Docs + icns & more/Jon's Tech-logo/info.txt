@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: officecodeprod-regular
+font link: https://github.com/nathco/Office-Code-Pro
+font author: Nathan Rutzky
+font author site: https://nath.co/
+Slogan Font: Aleo-Light.otf
+
+icon designer: Luis Prado
+icon designer link: /Luis
+        
+
+fontColor: {"hex":"#FF0000"}
+bgColor: {"hex":"transparent"}
+iconColor: {"hex":"#FF0000"}
+sloganColor: {"hex":"#888888"}
+      
