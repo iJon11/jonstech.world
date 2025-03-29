@@ -1,3 +1,4 @@
 #
 www.jonstech.world
-Yay! My Domain Works! Now to just get everything else all set up and running... here comes ol' trusty copilot!
+#
+This website is a portifolio site that funtions as well to book a time with [site owner].
