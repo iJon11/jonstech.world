@@ -1,0 +1,5 @@
+.navbar-logo {
+  height: 100%; /* Make the logo match the navbar height */
+  max-height: 50px; /* Optional: Set a maximum height to prevent it from being too large */
+  object-fit: contain; /* Ensure the logo scales proportionally */
+}
