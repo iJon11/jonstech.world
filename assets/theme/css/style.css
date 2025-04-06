@@ -9,6 +9,7 @@ body {
   font-weight: 400;
   color: #232323;
   position: relative;
+  font-family: Arial, sans-serif;
 }
 
 button {
@@ -955,7 +956,17 @@ blockquote {
     width: 300% !important;
     left: -100% !important;
   }
-}.engine {
+}
+
+.hero {
+  background: url('IMG_HDR_SETUP.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.engine {
 	position: absolute;
 	text-indent: -2400px;
 	text-align: center;
